@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://riool-hw.ru/"><img alt="Website" src="https://img.shields.io/badge/Website-riool--hw.ru-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://riool-hw.ru/"><img alt="Website" src="https://img.shields.io/badge/Website-riool--hw.ru-2ea44f?style=for-the-badge"></a>
   <a href="https://t.me/Za_ordy"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@Za__ordy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="mailto:riool@riool.ru"><img alt="Email" src="https://img.shields.io/badge/Email-riool@riool.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -25,7 +25,7 @@
 
 - **Делаю всё сам** — от идеи и дизайна до запуска и поддержки.
 - **Глубоко вникаю в задачу** — самостоятельно разбираюсь в специфике ниши.
-- **Автоматизирую учёт** — встраиваю заявки в Google Таблицы и ваши процессы.
+- **Автоматизирую учёт** — встраиваю заявки в облачные таблицы и ваши процессы.
 
 ---
 
@@ -37,14 +37,14 @@
 | **Чат-боты и автоответы** | Регистрация, консультации и ответы клиентам прямо в мессенджере |
 | **Веб-калькуляторы** | Прайсы, сметы и план лечения со мгновенным пересчётом |
 | **Веб-приложения** | Трекеры, системы записи, личные кабинеты |
-| **Учёт заявок** | Интеграции с Google Таблицами, экспорт данных |
+| **Учёт заявок** | Интеграции с облачными таблицами, экспорт данных |
 | **Поддержка и развитие** | Доработки и сопровождение после сдачи проекта |
 
 ---
 
 ## Избранные проекты
 
-- **Лендинг нутрициолога** — анкета с сайта попадает в Google Таблицу, специалист отвечает готовым протоколом питания.
+- **Лендинг нутрициолога** — анкета с сайта попадает в облачную таблицу, специалист отвечает готовым протоколом питания.
   [nutricion.riool-hw.ru](https://nutricion.riool-hw.ru)
 - **Чат-бот ВКонтакте** — регистрация на конференцию Business IT Day: бот собирает заявки в таблицу и не даёт записаться дважды.
   [vk.com/public82327335](https://vk.com/public82327335)
@@ -67,7 +67,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img alt="VK API" src="https://img.shields.io/badge/VK%20API-0077FF?style=for-the-badge&logo=vk&logoColor=white">
-  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
+  <img alt="Облачные таблицы" src="https://img.shields.io/badge/%D0%9E%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B-2ea44f?style=for-the-badge">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
