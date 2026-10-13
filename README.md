@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Вениамин Семериков (Riool) — веб-разработчик" width="100%">
+</p>
+
 <h1 align="center">Вениамин Семериков · Riool</h1>
 
 <p align="center">
