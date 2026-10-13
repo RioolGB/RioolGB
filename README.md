@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Вениамин Семериков (Riool) — веб-разработчик" width="100%">
+  <img src="readme-banner.jpg" alt="Вениамин Семериков (Riool) — веб-разработчик" width="100%">
 </p>
 
 <h1 align="center">Вениамин Семериков · Riool</h1>
